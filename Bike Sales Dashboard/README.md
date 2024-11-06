@@ -4,7 +4,7 @@
 The Bike Sales Dashboard provides a visual summary of bike purchase trends, segmented by various demographic and lifestyle factors. This dashboard was created using Excel and includes insights into how income, gender, age, and commute distance influence bike purchase behavior.
 
 ## Visualizations
-(images/bike_sales.png)
+![Seattle Real Estate Dashboard](images/bike_sales.png)
 
 ### 1. 'Income' by 'Gender' and 'Purchased Bike'
 This bar chart shows the distribution of income for individuals based on gender and whether they purchased a bike. Key insights include:

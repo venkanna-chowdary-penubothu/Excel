@@ -9,6 +9,7 @@ This project analyzes sales data from Amazon's retail operations to calculate th
 ## Approach
 
 ### 1. Percentage of Sales by AMAZON.COM.CA, INC in 2020
+![Sales Percentage by AMAZON.COM.CA, INC 2020](images/sales_amazonca_2020.png)
 
 Steps:
 1. **Filter Data for 2020**  
@@ -35,6 +36,7 @@ Steps:
      - `J92:J2260` represents the total inventory actual quantity.
 
 ### 2. Revenue for Amazon.com in 2019
+![Revenue for Amazon.com in 2019](images/revenue_2019.png)
 
 Steps:
 1. **Filter Data for 2019**  
